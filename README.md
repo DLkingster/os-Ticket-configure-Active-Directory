@@ -55,6 +55,7 @@ Select Review + Create. Select Create. It takes a few seconds to create a resour
 
 <p>
 <img src="https://github.com/user-attachments/assets/acff2bef-fb19-44ba-ba8b-fe73b238aa90"/>
+  
 </p>
 <p>
 To create an Azure storage account with the Azure portal, follow these steps:
@@ -66,12 +67,11 @@ Networking tab, you can configure network connectivity and routing preference se
 Data protection tab, you can configure data protection options for blob data in your new storage account. 
 Encryption tab, you can configure options that relate to how your data is encrypted when it is persisted to the cloud. 
 Tags tab, you can specify Resource Manager tags to help organize your Azure resources.
-
 When you navigate to the Review + create tab, Azure runs validation on the storage account settings that you have chosen. If validation passes, you can proceed to create the storage account.
 </p>
-<br />
+<p>
 
 <p>
 <img src="![image](https://github.com/user-attachments/assets/c2ea8203-b02e-4298-a7c3-94728fa08a96)"/>
 </p>
-<p>
+<br />
