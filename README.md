@@ -32,10 +32,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://d.docs.live.net/996e12406d104f75/Create%20Azure%20Tennant.docx"/>
+<![image](https://github.com/user-attachments/assets/ca64bf2b-2cc1-4810-b5de-29ce0edea300)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Sign in to the Azure portal. From the Azure portal menu, select Microsoft Entra ID. Navigate to Identity > Overview > Manage tenants. Select Create.
 </p>
 <br />
 
