@@ -72,6 +72,6 @@ When you navigate to the Review + create tab, Azure runs validation on the stora
 <br />
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/c2ea8203-b02e-4298-a7c3-94728fa08a96)"/>
+<img src="https://github.com/user-attachments/assets/c2ea8203-b02e-4298-a7c3-94728fa08a96)"/>
 </p>
 <br />
