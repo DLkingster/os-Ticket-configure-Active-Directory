@@ -44,12 +44,18 @@ Sign in to the Azure portal. From the Azure portal menu, select Microsoft Entra 
 <img src="https://github.com/user-attachments/assets/ca64bf2b-2cc1-4810-b5de-29ce0edea300"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Sign in to the Azure portal. Select Resource groups. Select Create.
+Enter the following values:
+Subscription: Select your Azure subscription.
+Resource group: Enter a new resource group name.
+Region: Select an Azure location such as Central US.
+Select Review + Create. Select Create. It takes a few seconds to create a resource group.To refresh the resource group list, select Refresh from the top menu. To open the newly created resource group, select it from the list. Or, select Notification (the bell icon) from the top, and then select Go to resource group to open the newly created resource group.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](https://github.com/user-attachments/assets/acff2bef-fb19-44ba-ba8b-fe73b238aa90)
+"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
