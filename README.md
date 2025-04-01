@@ -69,7 +69,7 @@ Encryption tab, you can configure options that relate to how your data is encryp
 Tags tab, you can specify Resource Manager tags to help organize your Azure resources.
 When you navigate to the Review + create tab, Azure runs validation on the storage account settings that you have chosen. If validation passes, you can proceed to create the storage account.
 </p>
-<p>
+<br />
 
 <p>
 <img src="![image](https://github.com/user-attachments/assets/c2ea8203-b02e-4298-a7c3-94728fa08a96)"/>
